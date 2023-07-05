@@ -13,8 +13,8 @@ The project is useful for people who struggle with picking the next movie to wat
 
 ### I created the function by myself!
 
-### Table of contents
+# Table of contents
 
-1. # Headers
+1. ### Headers
 2. Text connected with the header above it
 3. *name of the comment in the code*
